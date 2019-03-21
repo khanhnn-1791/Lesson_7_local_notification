@@ -12,6 +12,7 @@
 		97E4D91F224337B400F0A5A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97E4D91D224337B400F0A5A6 /* Main.storyboard */; };
 		97E4D921224337B700F0A5A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97E4D920224337B700F0A5A6 /* Assets.xcassets */; };
 		97E4D924224337B700F0A5A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97E4D922224337B700F0A5A6 /* LaunchScreen.storyboard */; };
+		97E4D92C224340CA00F0A5A6 /* image_jess.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 97E4D92B224340CA00F0A5A6 /* image_jess.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		97E4D920224337B700F0A5A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97E4D923224337B700F0A5A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97E4D925224337B700F0A5A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97E4D92B224340CA00F0A5A6 /* image_jess.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image_jess.jpg; path = ../../../../Downloads/image_jess.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				97E4D91B224337B400F0A5A6 /* ViewController.swift */,
 				97E4D91D224337B400F0A5A6 /* Main.storyboard */,
 				97E4D920224337B700F0A5A6 /* Assets.xcassets */,
+				97E4D92B224340CA00F0A5A6 /* image_jess.jpg */,
 				97E4D922224337B700F0A5A6 /* LaunchScreen.storyboard */,
 				97E4D925224337B700F0A5A6 /* Info.plist */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97E4D92C224340CA00F0A5A6 /* image_jess.jpg in Resources */,
 				97E4D924224337B700F0A5A6 /* LaunchScreen.storyboard in Resources */,
 				97E4D921224337B700F0A5A6 /* Assets.xcassets in Resources */,
 				97E4D91F224337B400F0A5A6 /* Main.storyboard in Resources */,
